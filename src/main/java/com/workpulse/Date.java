@@ -10,6 +10,8 @@ public class Date {
         Date d = new Date();
 		
 		System.out.println(d.toString());
+		
+		System.out.println("Executed all test cases !!");
 	}
 
 }
