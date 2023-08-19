@@ -12,6 +12,8 @@ public class Date {
 		System.out.println(d.toString());
 		
 		System.out.println("Executed all test cases !!");
+		System.out.println("Executed all test cases !!------ 2");
+		
 	}
 
 }
