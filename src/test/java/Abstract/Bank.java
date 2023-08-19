@@ -2,6 +2,6 @@ package Abstract;
 
 public abstract class Bank {
 	
-	abstract int getRateOfInterest();
+	abstract int getRateOfInterest();s
 
 }
